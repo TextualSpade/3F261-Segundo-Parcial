@@ -7,5 +7,6 @@ int main(int argc, char const *argv[])
     cout << &hola << endl;
     bool ejemplo;
     cout << &ejemplo << endl;
+    cout<<sizeof(int)<<endl;
     return 0;
 }
